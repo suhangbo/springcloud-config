@@ -4,7 +4,7 @@ spring:
   application:
     name: user-provider
   datasource:
-    url: jdbc:mysql://mysql:3306/mm_demo?useSSL=false&serverTimezone=UTC
+    url: jdbc:mysql://mysql:3660/mm_demo?useSSL=false&serverTimezone=UTC
     username: root
     password: 123456
     driver-class-name: com.mysql.cj.jdbc.Driver
